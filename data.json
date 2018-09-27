@@ -1,0 +1,50 @@
+{
+	"data":[
+		{
+			"id":1,
+			"name":"HANUMAN KUMAR",
+			"email":"hanumankumar035@gmail.com",
+			"phone":"+91 8374614212",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"Raghu Engg college",
+					"data":["72%","2012-15"]
+				},
+				{
+					"degree":"B-tech",
+					"institute":"Raghu Engg college",
+					"data":["72%","2012-15"]
+				},
+				{
+					"degree":"B-tech",
+					"institute":"Raghu Engg college",
+					"data":["72%","2012-15"]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"HANUMAN KUMAR",
+			"email":"hanumankumar035@gmail.com",
+			"phone":"+91 8374614212",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"Raghu Engg college",
+					"data":["72%","2012-15"]
+				},
+				{
+					"degree":"B-tech",
+					"institute":"Raghu Engg college",
+					"data":["72%","2012-15"]
+				},
+				{
+					"degree":"B-tech",
+					"institute":"Raghu Engg college",
+					"data":["72%","2012-15"]
+				}
+			]
+		}
+	]
+}
